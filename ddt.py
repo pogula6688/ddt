@@ -215,7 +215,7 @@ if generated_charts:
 st.markdown("""
 <div class='footer'>
     <p>Powered by Streamlit | Data Visualization and Analytics Tool</p>
-    <p>For additional information, contact at: <a href='mailto:Pogula-V@ulster.ac.uk'>Pogula-V@ulster.ac.uk</a></p>
+    <p>For additional information, contact me at: <a href='mailto:Pogula-V@ulster.ac.uk'>Pogula-V@ulster.ac.uk</a></p>
 </div>
 """, unsafe_allow_html=True)
 
